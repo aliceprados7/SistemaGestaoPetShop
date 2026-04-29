@@ -200,3 +200,5 @@ def index():
         cursor.close()
         conexao.close()
     return jsonify (vendas)
+
+cccccccccccc
