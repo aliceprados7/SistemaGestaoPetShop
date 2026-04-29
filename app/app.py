@@ -201,4 +201,3 @@ def index():
         conexao.close()
     return jsonify (vendas)
 
-cccccccccccc
